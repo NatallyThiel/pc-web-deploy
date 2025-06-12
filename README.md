@@ -96,4 +96,4 @@ php artisan key:generate
 php artisan migrate
 sudo chmod 777 -Rf storage
 ```
-
+## teste
