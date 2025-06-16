@@ -87,7 +87,7 @@ sudo service apache2 restart
 ```
 
 
-## Comandos que precisam ser executados uma unica vez no servidor
+## Comandos que precisam ser executados uma unica vez no servidor opaaa
 
 ```
 cd /var/www/html
